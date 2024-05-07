@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diljaz" alt="diljaz" /></a> </p>
 
-- 🌱 I’m currently learning **AWS cloud, Microsoft Azure**
+- 🌱 I’m currently learning **AWS cloud and Web development**
 
 - 📫 How to reach me **diljaz@gmail.com**
 
-- ⚡ Fun fact **I love sipping coffee and**
+- ⚡ Fun fact **I love sipping coffee and watching people kick ball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
