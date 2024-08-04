@@ -3,11 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diljaz" alt="diljaz" /></a> </p>
 
-- 🌱 I’m currently learning **AWS cloud and Web development**
-
-- 📫 How to reach me **diljaz@gmail.com**
-
-- ⚡ Fun fact **I love sipping coffee and watching people kick ball**
+- 🌱 Foundational Knowledge in **Microsoft Azure (with project experience), Google Cloud Platform (GCP), and Amazon Web Services (AWS)**
+- 🐍 **Strong in Python** with extensive experience in data analysis, machine learning, and automation
+- 🎮 **Unity 3D Game Development**: Developed interactive games using Unity
+- 🎓 Currently pursuing a degree in **Computer Science and Engineering**
+- 📫 Reach me via **diljaz@gmail.com**
+- ⚡ **I love sipping coffee and watching people kick ball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
